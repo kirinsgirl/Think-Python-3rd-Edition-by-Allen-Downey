@@ -7,4 +7,4 @@ kmPerMile = 1.61
 miles = km * kmPerMile
 
 paceAvg = totalSec / miles
-print(paceAvg)
+print(round(paceAvg))
